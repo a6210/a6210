@@ -2,10 +2,14 @@
 <h3 align="center">MS in Computer Science @ Florida Atlantic University · Aspiring AI Engineer</h3>
 
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/praneeth-reddy-gutha-19780926a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guthapraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+
 
 
 - 🎓 MS in Computer Science, FAU (May 2027)
@@ -15,7 +19,11 @@
 - 📫 Reach me at **guthapraneeth@gmail.com**
 
 
+
+
 ### 🛠️ Tech Stack
+
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +39,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
+
+
 ### 🚀 Featured Projects
+
+
 
 
 | Project | What it does | Stack |
@@ -39,10 +51,15 @@
 | [**Detect-plant-disease**](https://github.com/a6210/Detect-plant-disease) | ResNet18 transfer learning on 38 PlantVillage classes, served as a Streamlit leaf-diagnosis app · two-stage fine-tuning | PyTorch, Streamlit |
 | [**basic-rag-streamlit**](https://github.com/a6210/basic-rag-streamlit) | RAG pipeline — document chunking, embeddings, vector retrieval + LLM-grounded answers in a Streamlit UI | Python, Streamlit |
 | [**Customer Churn Analysis**](https://github.com/a6210/Customer-Churn-Analysis---Telcom-Dataset) | End-to-end churn prediction: EDA → feature engineering → modeling | Pandas, scikit-learn |
-| [**Customer Behaviour Analysis**](https://github.com/a6210/Customer_behaviour_analysis) | Customer analytics with interactive dashboards | Power BI, PostgreSQL, Python |
+| [****](https://github.com/a6210/Customer_behaviour_analysis) | Customer analytics with interactive dashboards | Power BI, PostgreSQL, Python |
+| [**instacart-retail-analytics**](https://github.com/a6210/instacart-retail-analytics) | End-to-end retail analytics on 32M+ records — Medallion pipeline (Python ETL → S3 Parquet → Glue → Athena) with a Tableau executive dashboard | AWS, Python, SQL, Athena, Tableau |
+
+
 
 
 ### 📊 GitHub Stats
+
+
 
 
 <p align="center">
@@ -51,7 +68,11 @@
 </p>
 
 
+
+
 ### 💡 Currently learning
+
+
 
 
 - Agentic AI systems & MCP
